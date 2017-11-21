@@ -48,7 +48,7 @@
     "import/no-unresolved": [2, { "caseSensitive": false }],
     "jsx-a11y/anchor-has-content": 2,
     "jsx-a11y/label-has-for": 0,
-    "react/jsx-space-before-closing": [2, "never"],
+    "react/jsx-space-before-closing": 0,
     "react/no-danger": 0,
     "newline-after-var": ["error"],
     "newline-before-return": ["error"],
